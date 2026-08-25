@@ -41,8 +41,8 @@ function App() {
               Nueva colección 2026
             </div>
             <h2>
-              Pisá fuerte.
-              <span>Sentite cómodo.</span>
+              Adidas Original by RPC.
+              <span>En caja sellada con certificado de originalidad.</span>
             </h2>
             <p>
               Zapatillas urbanas para todos los días. Elegí entre seis combinaciones y
