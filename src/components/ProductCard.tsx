@@ -17,7 +17,7 @@ export function ProductCard({ product }: Props) {
       <p className="product-subtitle">{product.subtitle}</p>
       <p className="product-description">{product.description}</p>
 
-      <div className="size-callout" aria-label="Talles disponibles del 39 al 44">
+      <div className="size-callout" aria-label="Talles disponibles del 35 al 44">
         <span>Talles</span>
         <strong>39 al 44</strong>
       </div>
