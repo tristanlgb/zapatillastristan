@@ -19,7 +19,7 @@ export function ProductCard({ product }: Props) {
 
       <div className="size-callout" aria-label="Talles disponibles del 35 al 44">
         <span>Talles</span>
-        <strong>39 al 44</strong>
+        <strong>35 al 44</strong>
       </div>
 
       <div className="product-meta">
