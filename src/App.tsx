@@ -46,7 +46,7 @@ function App() {
             </h2>
             <p>
               Zapatillas urbanas para todos los días. Elegí entre seis combinaciones y
-              encontrá tu talle del 39 al 44.
+              encontrá tu talle del 35 al 44.
             </p>
             <div className="hero-actions">
               <button className="primary-action" type="button" onClick={goToProduct}>
@@ -78,21 +78,21 @@ function App() {
           <div>
             <PackageCheck />
             <span>
-              <strong>Talles 39 al 44</strong>
+              <strong>Talles 35 al 44</strong>
               Consultá disponibilidad
             </span>
           </div>
           <div>
             <Truck />
             <span>
-              <strong>Envío gestionado</strong>
+              <strong>Envío a todo el pais</strong>
               Según condiciones de MercadoLibre
             </span>
           </div>
           <div>
             <LockKeyhole />
             <span>
-              <strong>Pago seguro</strong>
+              <strong>Garantía y Devolución por Mercado Libre</strong>
               Sin datos sensibles en este sitio
             </span>
           </div>
