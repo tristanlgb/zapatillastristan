@@ -134,7 +134,7 @@ function App() {
                 <CheckCircle2 />
                 <span>
                   <strong>Tu talle, más fácil</strong>
-                  Numeración disponible del 39 al 44.
+                  Numeración disponible del 35 al 44.
                 </span>
               </div>
             </div>
