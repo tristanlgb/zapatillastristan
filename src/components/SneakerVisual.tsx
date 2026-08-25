@@ -9,7 +9,7 @@ export function SneakerVisual({ compact = false }: Props) {
       <div className="image-shade" />
       <figcaption className="visual-badge">
         <span>6 colores disponibles</span>
-        <strong>39—44</strong>
+        <strong>35—44</strong>
       </figcaption>
     </figure>
   )
