@@ -141,7 +141,7 @@ function App() {
           </div>
 
           <div className="quality-panel">
-            <span className="panel-number">39—44</span>
+            <span className="panel-number">35—44</span>
             <div>
               <small>HECHAS PARA TU RITMO</small>
               <p>Elegí el color. Encontrá tu talle. Salí a estrenarlas.</p>
